@@ -6,11 +6,13 @@ A simple Human Resource Management System (HRMS) frontend built with React and V
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/prachikush16/hrms-frontend.git
-   cd hrms-frontend
+   git clone https://github.com/prachikush16/frontend-hrms.git
+   cd frontend-hrms
    ```
 
 2. **Install dependencies**
+# node version:20.17.*
+# npm version:11.5.*
    ```bash
    npm install
    ```
@@ -48,7 +50,7 @@ A simple Human Resource Management System (HRMS) frontend built with React and V
 
 This project is linked to the following Git remote:
 ```
-git remote add origin https://github.com/prachikush16/hrms-frontend.git
+git remote add origin https://github.com/prachikush16/frotend-hrms.git
 ```
 
 ## 📝 Notes
